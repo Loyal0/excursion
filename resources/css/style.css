@@ -8,7 +8,7 @@ body {
     color: white;
     font-weight: normal;
 }
-header a {
-    color: aquamarine;
+.link--cta {
+    color: aqua;
     font-size: 16px;
 }
